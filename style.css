@@ -148,7 +148,7 @@ a{
 }
 
 .nav-link {
-    color: var(--dark) !important;
+    color: var(--dark) ;
     font-weight: 500;
     margin: 0 0.5rem;
     transition: all 0.3s ease;
